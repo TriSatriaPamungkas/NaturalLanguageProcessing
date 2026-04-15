@@ -148,3 +148,7 @@ Project menampilkan:
 -   Cosine similarity
 
 ------------------------------------------------------------------------
+
+# Link Project
+
+https://colab.research.google.com/drive/1GjuYda3pD2X41ed5b9BLOocuE96sUp9E?usp=sharing
