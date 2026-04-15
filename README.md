@@ -125,7 +125,7 @@ Untuk keluar:
 -   Lowercase\
 -   Cleaning Text\
 -   Tokenization\
--   Stopword Removal\
+-   Stopword\
 -   Stemming
 
 ## Feature Extraction
@@ -146,21 +146,5 @@ Project menampilkan:
 -   Top kata paling sering muncul\
 -   Perbandingan BoW vs TF‑IDF\
 -   Cosine similarity
-
-------------------------------------------------------------------------
-
-# 🔧 Future Improvement
-
--   Streamlit Web App\
--   API Backend\
--   Transformer Model (BERT)\
--   Deployment
-
-------------------------------------------------------------------------
-
-# 👨‍💻 Author
-
-UTS Natural Language Processing\
-Banking Chatbot Project
 
 ------------------------------------------------------------------------
