@@ -1,16 +1,7 @@
 # 🏦 Banking NLP Chatbot --- UTS Natural Language Processing
 
 Proyek ini merupakan implementasi **Natural Language Processing (NLP)**
-untuk membangun **Chatbot FAQ Perbankan** menggunakan metode:
-
--   Text Preprocessing\
--   Bag of Words (BoW)\
--   TF-IDF\
--   Cosine Similarity\
--   Data Visualization
-
-Chatbot akan menerima pertanyaan pengguna dan memberikan jawaban paling
-relevan berdasarkan dataset FAQ perbankan.
+untuk membangun **Chatbot FAQ Perbankan** 
 
 ------------------------------------------------------------------------
 
