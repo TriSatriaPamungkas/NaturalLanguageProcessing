@@ -23,7 +23,7 @@ Pastikan Python sudah terinstall:
 Install dependency:
 
 ``` bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk sastrawi
+pip install pandas numpy matplotlib seaborn scikit-learn nltk
 ```
 
 ------------------------------------------------------------------------
